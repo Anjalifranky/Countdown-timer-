@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.countdown-container {
+    text-align: center;
+}
+
+.countdown-item {
+    display: inline-block;
+    font-size: 2em;
+}
+
+button {
+    padding: 10px;
+    font-size: 1em;
+    margin-top: 10px;
+}
